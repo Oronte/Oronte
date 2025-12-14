@@ -18,7 +18,6 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-<br/><br/>
 
 <!-- Engines & Tools -->
 <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -34,15 +33,13 @@
 <p align="center">
 
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/>
-
-<br/><br/>
+<img src="C++_Logo.svg" width="42"/>
+<img src="C_sharp.png" width="42"/>
 
 <!-- Engines / Tools -->
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/SFML/SFML/master/resources/Logo/SFML_Logo_Full_Color.png" width="80"/>
+<img src="SFML_Logo.svg" width="80"/>
 
 </p>
 
