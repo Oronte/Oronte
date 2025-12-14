@@ -33,13 +33,13 @@
 <p align="center">
 
 <!-- Languages -->
-<img src="C++_Logo.svg" width="42"/>
-<img src="C_sharp.png" width="42"/>
+<img src="Assets/C++_Logo.png" width="42"/>
+<img src="Assets/C_sharp.png" width="42"/>
 
 <!-- Engines / Tools -->
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42"/>
-<img src="SFML_Logo.svg" width="80"/>
+<img src="Assets/SFML_Logo.png" width="80"/>
 
 </p>
 
