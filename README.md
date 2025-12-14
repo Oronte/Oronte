@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oronte</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+%2F+C%23+Developer;Engine+Programming+%26+Real-Time+Systems;Performance+%7C+Architecture+%7C+Low-Level+Thinking;Game+Engines+as+a+Technical+Laboratory" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=C%2B%2B+%2F+C%23+Developer;Engine+Programming+%26+Real-Time+Systems;Performance+%7C+Architecture+%7C+Low-Level+Thinking;Turning+Game+Tech+into+Serious+Software+Skills" />
 </p>
-
-<h3 align="center">
-C++ / C# • Engine-Oriented Development • Real-Time Architecture
-</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oronte&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -17,10 +13,10 @@ C++ / C# • Engine-Oriented Development • Real-Time Architecture
 ## 🧠 About Me
 
 - 🎓 Studying **C++ and C# programming**
-- ⚙️ Strong interest in **engine-level systems**
-- 🧩 Focused on **memory, performance, and clean architecture**
-- 🎮 Using game engines as a **high-intensity engineering environment**
-- 🚀 Skills designed to scale **beyond the game industry**
+- ⚙️ Strong interest in **engine-level and real-time systems**
+- 🧩 Focus on **performance, architecture, and clean code**
+- 🎮 Game engines used as a **technical laboratory**
+- 🚀 Skills applicable **far beyond game development**
 
 ---
 
@@ -41,14 +37,11 @@ C++ / C# • Engine-Oriented Development • Real-Time Architecture
 
 ---
 
-## ⚙️ Technical Focus
+## ⚙️ Technical Focus (Animated Highlight)
 
-- Game loops & real-time execution
-- Engine architecture & system design
-- Memory-aware programming (C++)
-- State machines & modular systems
-- Debugging & optimization
-- Tools & reusable frameworks
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oronte&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -61,23 +54,27 @@ C++ / C# • Engine-Oriented Development • Real-Time Architecture
 
 ---
 
-## 🔥 GitHub Streak
+## 🎮 Animated Scene (Mario-like Vibe)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oronte&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <em>Because interactive systems should feel alive.</em>
 </p>
 
 ---
 
-## 🧬 Activity Graph (Animated)
+## 🧬 3D Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oronte&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/juanjoDiaz/3D-contribution-graph/main/profile-night-green.svg" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -90,12 +87,3 @@ C++ / C# • Engine-Oriented Development • Real-Time Architecture
 <p align="center">
 📧 <strong>orontesoler06@gmail.com</strong>
 </p>
-
----
-
-## 📌 Philosophy
-
-> *"Real-time systems force you to write honest code."*
-
-This GitHub is a **technical progression log**,  
-focused on **understanding, control, and mastery**.
