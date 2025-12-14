@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9AA5CE&center=true&vCenter=true&width=650&lines=C%2B%2B+%2F+C%23+Developer;Engine+Programming+%26+Real-Time+Systems;Performance+%7C+Architecture+%7C+Low-Level+Thinking" />
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -14,7 +13,6 @@
 - 🎮 Game engines used as a **technical laboratory**
 - 🚀 Skills applicable **far beyond game development**
 
----
 
 ## Badges
 
@@ -32,7 +30,6 @@
 
 </p>
 
----
 
 ## Tech Stack
 
@@ -49,13 +46,13 @@
 
 </p>
 
----
 
 ## Contact
 
 <p align="center">
 📧 <strong>orontesoler06@gmail.com</strong>
 </p>
+
 
 ---
 
@@ -65,7 +62,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oronte&theme=github-dark&hide_border=true"/>
 </p>
 
----
 
 ## GitHub Stats
 
