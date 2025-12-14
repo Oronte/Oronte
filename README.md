@@ -13,9 +13,9 @@
 ## About
 
 - 🎓 Studying **C++ & C# programming**
-- ⚙️ Strong focus on **engine-level and real-time systems**
-- 🧠 Interested in **performance, architecture, and clean design**
-- 🎮 Game technologies used as a **technical laboratory**
+- ⚙️ Engine-level & real-time systems focus
+- 🧠 Interested in **performance, architecture, clean design**
+- 🎮 Game tech used as a **technical laboratory**
 - 🚀 Skills designed to be **industry-agnostic**
 
 ---
@@ -50,6 +50,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oronte&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oronte&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
