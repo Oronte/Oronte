@@ -1,80 +1,13 @@
-# 👋 Welcome
+<h1 align="center">Hi 👋, I'm Oronte</h1>
+<h3 align="center">A Game dev from France</h3>
 
-## C++ / C# Developer  
-### Applied Programming • Real-Time Systems • Interactive Technologies
+- 🌱 I’m currently learning **C++**
 
-I am a student developer specializing in **C++ and C#**, with a strong focus on **real-time systems and interactive applications**.  
-While my technical background is rooted in game-related technologies, my goal is **not limited to the video game industry**. I use these technologies as a **high-level training ground** to build robust, transferable programming skills.
+- 📫 How to reach me **orontesoler06@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 💡 Vision & Mindset
-
-> Game development is not just about entertainment —  
-> it is one of the most demanding environments for software engineering.
-
-Through interactive and real-time programming, I focus on mastering:
-- performance-oriented design  
-- clean and maintainable architecture  
-- system-level thinking  
-- problem-solving under real-time constraints  
-
-These principles apply to **any serious software project**, far beyond games.
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-- **C++** — low-level control, performance, engine-oriented programming
-- **C#** — application logic, tooling, scripting
-
-### Frameworks & Engines
-- **SFML** — low-level graphics, input handling, real-time foundations
-- **Unity** — gameplay architecture, component-based systems
-- **Unreal Engine** — complex engine systems, C++ integration
-
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Game loops & real-time execution
-- Event-driven systems
-- State machines & system architecture
-- Applied mathematics (vectors, transformations)
-- Debugging & performance optimization
-
----
-
-## 📁 Projects
-
-This repository contains:
-- **in-depth learning projects**
-- **technical experiments**
-- **reusable systems and prototypes**
-
-Each project is designed around a clear technical goal:
-> *How should this system be structured?*  
-> *How can it scale?*  
-> *How do I optimize without sacrificing clarity?*
-
----
-
-## 🎯 Objectives
-
-- Deepen expertise in **advanced C++ programming**
-- Design clean, scalable, and reusable architectures
-- Strengthen knowledge of **engines, tools, and complex systems**
-- Build a **versatile developer profile**, adaptable across industries
-
----
-
-## 📌 About This GitHub
-
-This GitHub profile is not a showcase of “finished products”.  
-It is a **technical progression log**, where each project represents a step toward deeper understanding.
-
-Every line of code here exists for a reason:  
-**to learn, refine, and master software development.**
-
----
-
-Thank you for visiting.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
