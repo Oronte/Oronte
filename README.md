@@ -22,7 +22,7 @@
 <!-- Engines & Tools -->
 <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-<img alt="SFML" src="https://img.shields.io/badge/SFML-6699CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI2Y4ZjhmOCIvPjwvc3ZnPg==" />
+<img alt="SFML" src="Assets/SFML_Logo.png" />
 
 </p>
 
@@ -39,7 +39,7 @@
 <!-- Engines / Tools -->
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42"/>
-<img src="Assets/SFML_Logo.png" width="80"/>
+<img src="Assets/SFML_Logo.png" width="42"/>
 
 </p>
 
