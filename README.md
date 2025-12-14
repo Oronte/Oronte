@@ -4,12 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9AA5CE&center=true&vCenter=true&width=650&lines=C%2B%2B+%2F+C%23+Developer;Engine+Programming+%26+Real-Time+Systems;Performance+%7C+Architecture+%7C+Low-Level+Thinking" />
 </p>
 
-<p align="center">
-Hi 👋, I'm <strong>Oronte</strong>, a passionate developer exploring the world of <strong>C++</strong> & <strong>C#</strong> 🔧.  
-I enjoy building systems, experimenting with game engines 🎮, and mastering performance & clean architecture ⚡.  
-Currently diving deep into <strong>SFML</strong>, Unity, and Unreal Engine 🚀.
-</p>
+---
 
+## 🧠 About Me
+
+- 🎓 Studying **C++ and C#**
+- ⚙️ Strong interest in **game-engine and real-time systems**
+- 🧩 Focus on **performance, architecture, and clean code**
+- 🎮 Game engines used as a **technical laboratory**
+- 🚀 Skills applicable **far beyond game development**
 
 ---
 
