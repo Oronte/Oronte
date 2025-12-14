@@ -27,8 +27,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
 
-<br/><br/>
-
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sfml.svg" width="42"/>
@@ -57,7 +55,7 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color=58A6FF" />
 </p>
 
 ---
