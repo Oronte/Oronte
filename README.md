@@ -92,8 +92,8 @@ C#, Unity, VR, Perforce
 
 ## Contact
 
-<a href="https://github.com/Oronte">GitHub</a>
-<a href="https://www.linkedin.com/in/oronte-soler-08b959390/">LinkedIn</a>
+[GitHub](https://github.com/Oronte)  
+[LinkedIn](https://www.linkedin.com/in/oronte-soler-08b959390/)  
 orontesoler06@gmail.com
 
 </div>
