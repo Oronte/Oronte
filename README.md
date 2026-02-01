@@ -4,18 +4,6 @@
 </p>
 <h3 align="center">Software / Game Programmer</h3>
 
-<p>
-C++ · C# · Engine Programming · Real-Time Systems
-</p>
-
-<p>
-<a href="https://github.com/Oronte">GitHub</a> ·
-<a href="https://www.linkedin.com/in/oronte-soler-08b959390/">LinkedIn</a> ·
-<a href="mailto:orontesoler06@gmail.com">orontesoler06@gmail.com</a>
-</p>
-
-</div>
-
 ---
 
 ## About Me
@@ -23,7 +11,8 @@ Second-year game programming student at a private institution with a strong focu
 Experienced in real-time software, engine architecture, gameplay systems, and internal tools.  
 Game development background with skills applicable to **general software engineering** roles.
 
-Currently seeking a **software or game programming internship / apprenticeship**.
+Currently seeking a **software programming internship / apprenticeship**.
+Looking to contribute to **clean, maintainable codebases** and **concrete technical challenges**.
 
 ---
 
@@ -45,39 +34,35 @@ Currently seeking a **software or game programming internship / apprenticeship**
 
 ## Featured Projects
 
-### 🎮 Custom 2D Game Engine — SFML  
-**Solo academic project**  
+### Custom 2D Game Engine — SFML  
+**Personel project**  
 
-<p align="center">
-<a href="https://github.com/Oronte/2D-Game-Engine">View Repository</a>
-</p>
+<a href="[https://github.com/Oronte/2D-Game-Engine](https://github.com/Oronte/KrampusEngine)">Krampus Engine</a>
 
 **Description**  
 Custom-built 2D game engine developed from scratch to explore engine architecture and real-time systems.
 
 **Key Contributions**
-- Core engine architecture and main loop
 - Scene and entity management
 - Rendering pipeline and input system
+- Physics simulation
 
 **Technologies**  
 C++, SFML
 
 ---
 
-### 🕹️ 3D Game Project — Unreal Engine  
+### 3D Game Project — Unreal Engine  
 **Team project — 6 programmers, ~15 artists**
 
-<p align="center">
-<a href="https://github.com/Oronte/Unreal-3D-Game">View Repository</a>
-</p>
+<a href="[https://github.com/Oronte/Unreal-3D-Game](https://github.com/Oronte/Bamphy)">Bamphy</a>
 
 **Description**  
-Team-based 3D game developed in a production-style environment with multidisciplinary collaboration.
+3D puzzle game developed in a production-style environment with multidisciplinary collaboration.
 
 **Key Contributions**
 - Gameplay mechanics and interaction systems
-- Editor tools for designers and artists
+- Key remapping and game translation system
 - Perforce-based team workflow integration
 
 **Technologies**  
@@ -85,34 +70,23 @@ C++, Unreal Engine, Perforce
 
 ---
 
-### 🥽 VR Serious Game — La Poste  
+### VR Serious Game — La Poste  
 **Professional project**
 
 <p align="center">
-<a href="https://github.com/Oronte/VR-LaPoste-Training">View Repository</a>
+<a href="[https://github.com/Oronte/VR-LaPoste-Training](https://github.com/Oronte/LaPoste-SeriousGame)">La Poste</a>
 </p>
 
 **Description**  
 VR training application designed for employee onboarding and professional skill development.
 
 **Key Contributions**
-- VR interaction and gameplay systems
-- Custom Unity tools for rapid design iteration
-- Focus on usability, stability, and real-world constraints
+- VR gameplay systems
+- VR optimization to avoid nausea
+- Perforce-based team workflow integration
 
 **Technologies**  
-C#, Unity, VR SDKs
-
----
-
-## What I’m Looking For
-A **software or game programming internship / apprenticeship** with focus on:
-- Engine and systems development
-- Gameplay programming
-- Internal tools and production pipelines
-- VR and interactive real-time applications
-
-Looking to contribute to **clean, maintainable codebases** and **concrete technical challenges**.
+C#, Unity, VR, Perforce
 
 ---
 
@@ -122,6 +96,6 @@ Looking to contribute to **clean, maintainable codebases** and **concrete techni
 
 <a href="https://github.com/Oronte">GitHub</a> ·
 <a href="https://www.linkedin.com/in/oronte-soler-08b959390/">LinkedIn</a> ·
-<a href="mailto:orontesoler06@gmail.com">Email</a>
+<a>orontesoler06@gmail.com</a>
 
 </div>
