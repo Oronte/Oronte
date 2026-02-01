@@ -37,7 +37,7 @@ Looking to contribute to **clean, maintainable codebases** and **concrete techni
 ### Custom 2D Game Engine — SFML  
 **Personel project**  
 
-<a href="[https://github.com/Oronte/2D-Game-Engine](https://github.com/Oronte/KrampusEngine)">Krampus Engine</a>
+<a href="https://github.com/Oronte/KrampusEngine">Krampus Engine</a>
 
 **Description**  
 Custom-built 2D game engine developed from scratch to explore engine architecture and real-time systems.
@@ -55,7 +55,7 @@ C++, SFML
 ### 3D Game Project — Unreal Engine  
 **Team project — 6 programmers, ~15 artists**
 
-<a href="[https://github.com/Oronte/Unreal-3D-Game](https://github.com/Oronte/Bamphy)">Bamphy</a>
+<a href="https://github.com/Oronte/Bamphy">Bamphy</a>
 
 **Description**  
 3D puzzle game developed in a production-style environment with multidisciplinary collaboration.
@@ -73,9 +73,7 @@ C++, Unreal Engine, Perforce
 ### VR Serious Game — La Poste  
 **Professional project**
 
-<p align="center">
-<a href="[https://github.com/Oronte/VR-LaPoste-Training](https://github.com/Oronte/LaPoste-SeriousGame)">La Poste</a>
-</p>
+<a href="https://github.com/Oronte/LaPoste-SeriousGame">La Poste</a>
 
 **Description**  
 VR training application designed for employee onboarding and professional skill development.
@@ -94,8 +92,8 @@ C#, Unity, VR, Perforce
 
 ## Contact
 
-<a href="https://github.com/Oronte">GitHub</a> ·
-<a href="https://www.linkedin.com/in/oronte-soler-08b959390/">LinkedIn</a> ·
-<a>orontesoler06@gmail.com</a>
+<a href="https://github.com/Oronte">GitHub</a>
+<a href="https://www.linkedin.com/in/oronte-soler-08b959390/">LinkedIn</a>
+orontesoler06@gmail.com
 
 </div>
