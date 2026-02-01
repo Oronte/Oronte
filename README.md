@@ -5,50 +5,78 @@
 </p>
 
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Studying **C++ and C#**
-- ⚙️ Strong interest in **game-engine and real-time systems**
-- 🧩 Focus on **performance, architecture, and clean code**
-- 🎮 Game engines used as a **technical laboratory**
-- 🚀 Skills applicable **far beyond game development**
+I am a 2nd-year game programming student in a private school, specializing in C++ and C#.  
+I have built a solid foundation in coding applied to game development, with hands-on experience in engines, gameplay systems, tools, and VR. While my focus is on interactive and real-time software, I remain open to broader programming challenges beyond games.
 
+I am actively seeking a **software or game programming internship / apprenticeship** where I can contribute technically while continuing to learn.
 
-## Badges
+---
 
-<p align="center">
+## Technical Skills
 
-<!-- Languages -->
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+### Languages
+- **C++** — systems, architecture, engine features
+- **C#** — Unity scripting, tools
 
+### Game & Software Technologies
+- **Unreal Engine** (C++, gameplay, tools)
+- **Unity** (C#, VR, tools)
+- **SFML** (2D engine development)
+- **P4V / Perforce** — version control (team workflow)
+- **Git / GitHub** — source control and collaboration
 
-<!-- Engines & Tools -->
-<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-<img alt="SFML" src="https://img.shields.io/badge/SFML-6699CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI2Y4ZjhmOCIvPjwvc3ZnPg==" />
+---
 
-</p>
+## Featured Projects
 
+### 2D Game Engine (SFML)
+**Role:** Principal developer (solo project)  
+**Description:** A custom 2D game engine built from scratch using SFML.  
+**Highlights:**
+- Core engine architecture and framework
+- Scene management and rendering
+- Input handling and game loop  
+**Tech:** C++, SFML
 
-## Tech Stack
+### 3D Game (Unreal Engine)
+**Role:** Gameplay & tools programmer (team project)  
+**Description:** A team-based 3D game project developed with 6 programmers and ~15 artists.  
+**Highlights:**
+- Gameplay mechanics and interactions
+- Editor tools to support content creation
+- Collaboration using Perforce  
+**Tech:** C++, Unreal Engine
 
-<p align="center">
+### VR Serious Game for La Poste (Unity)
+**Role:** Gameplay & tools developer  
+**Description:** A professional VR training application designed to onboard new employees for La Poste.  
+**Highlights:**
+- VR interaction systems
+- Custom tools to support designers
+- Functional and immersive user experience  
+**Tech:** C#, Unity
 
-<!-- Languages -->
-<img src="Assets/C++_Logo.png" width="42"/>
-<img src="Assets/C_sharp.png" width="42"/>
+---
 
-<!-- Engines / Tools -->
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="42"/>
-<img src="Assets/SFML_Logo.png" width="42"/>
+## What I’m Looking For
 
-</p>
+I am seeking a **software / game programming internship or apprenticeship** with a focus on:
+- Engine and systems development
+- Gameplay programming
+- Tools and production support
+- VR and interactive applications
 
+I am eager to contribute to real technical challenges and grow in a professional environment.
+
+---
 
 ## Contact
 
 <p align="center">
-📧 <strong>orontesoler06@gmail.com</strong>
+- GitHub: https://github.com/Oronte  
+- LinkedIn: https://www.linkedin.com/in/oronte-soler-08b959390/
+- <strong>orontesoler06@gmail.com</strong>
 </p>
+---
