@@ -5,78 +5,107 @@
 </p>
 
 
+<div align="center">
+
+# Oronte  
+**Software / Game Programmer**
+
+C++ • C# • Engine & Real-Time Systems
+
+[GitHub](https://github.com/Oronte) · [LinkedIn](https://www.linkedin.com/in/oronte-soler-08b959390/) · orontesoler06@gmail.com
+
+</div>
+
+---
+
 ## About Me
+Second-year game programming student at a private institution, focused on **C++ systems programming** and **C# application development**.  
+Experienced in real-time software, engine-level architecture, gameplay systems, and internal tools.  
+Background in game development with skills directly transferable to **general software engineering**.
 
-I am a 2nd-year game programming student in a private school, specializing in C++ and C#.  
-I have built a solid foundation in coding applied to game development, with hands-on experience in engines, gameplay systems, tools, and VR. While my focus is on interactive and real-time software, I remain open to broader programming challenges beyond games.
-
-I am actively seeking a **software or game programming internship / apprenticeship** where I can contribute technically while continuing to learn.
+Currently seeking a **software or game programming internship / apprenticeship**.
 
 ---
 
 ## Technical Skills
 
-### Languages
-- **C++** — systems, architecture, engine features
-- **C#** — Unity scripting, tools
+### Programming Languages
+- **C++** — engine architecture, low-level systems, performance-oriented design
+- **C#** — Unity development, gameplay systems, tooling
 
-### Game & Software Technologies
-- **Unreal Engine** (C++, gameplay, tools)
-- **Unity** (C#, VR, tools)
-- **SFML** (2D engine development)
-- **P4V / Perforce** — version control (team workflow)
-- **Git / GitHub** — source control and collaboration
+### Engines, Frameworks & APIs
+- **Unreal Engine** — C++ gameplay systems, editor extensions
+- **Unity** — gameplay, VR applications, custom tools
+- **SFML** — 2D rendering, input, windowing (engine development)
+
+### Development Tools
+- **Perforce (P4V)** — team-based version control, production workflows
+- **Git / GitHub** — source control, collaboration, code review
 
 ---
 
 ## Featured Projects
 
-### 2D Game Engine (SFML)
-**Role:** Principal developer (solo project)  
-**Description:** A custom 2D game engine built from scratch using SFML.  
-**Highlights:**
-- Core engine architecture and framework
-- Scene management and rendering
-- Input handling and game loop  
-**Tech:** C++, SFML
+### Custom 2D Game Engine — SFML
+**Context:** Solo academic project  
+**Role:** Principal developer  
 
-### 3D Game (Unreal Engine)
-**Role:** Gameplay & tools programmer (team project)  
-**Description:** A team-based 3D game project developed with 6 programmers and ~15 artists.  
-**Highlights:**
-- Gameplay mechanics and interactions
-- Editor tools to support content creation
-- Collaboration using Perforce  
-**Tech:** C++, Unreal Engine
+**Overview:**  
+Design and implementation of a lightweight 2D game engine built from scratch.
 
-### VR Serious Game for La Poste (Unity)
+**Responsibilities:**
+- Engine core architecture and game loop
+- Scene, entity, and system management
+- Rendering pipeline and input handling
+
+**Tech Stack:** C++, SFML
+
+---
+
+### 3D Game Project — Unreal Engine
+**Context:** Team project (6 programmers, ~15 artists)  
+**Role:** Gameplay & tools programmer  
+
+**Overview:**  
+Large-scale collaborative 3D game project developed in a production-like environment.
+
+**Responsibilities:**
+- Gameplay mechanics and interaction systems
+- Editor tools to support designers and artists
+- Integration with Perforce-based team workflows
+
+**Tech Stack:** C++, Unreal Engine, Perforce
+
+---
+
+### VR Serious Game — La Poste
+**Context:** Professional project  
 **Role:** Gameplay & tools developer  
-**Description:** A professional VR training application designed to onboard new employees for La Poste.  
-**Highlights:**
-- VR interaction systems
-- Custom tools to support designers
-- Functional and immersive user experience  
-**Tech:** C#, Unity
+
+**Overview:**  
+VR training application designed for onboarding and professional training.
+
+**Responsibilities:**
+- VR interaction and gameplay systems
+- Custom Unity tools for design iteration
+- Emphasis on usability, stability, and real-world constraints
+
+**Tech Stack:** C#, Unity, VR SDKs
 
 ---
 
 ## What I’m Looking For
-
-I am seeking a **software / game programming internship or apprenticeship** with a focus on:
+An **internship or apprenticeship** in software or game programming with exposure to:
 - Engine and systems development
 - Gameplay programming
-- Tools and production support
-- VR and interactive applications
+- Internal tools and production support
+- VR and interactive real-time applications
 
-I am eager to contribute to real technical challenges and grow in a professional environment.
+Interested in environments that value **clean architecture**, **technical ownership**, and **practical problem-solving**.
 
 ---
 
 ## Contact
-
-<p align="center">
-- GitHub: https://github.com/Oronte  
-- LinkedIn: https://www.linkedin.com/in/oronte-soler-08b959390/
-- <strong>orontesoler06@gmail.com</strong>
-</p>
----
+- **GitHub:** https://github.com/Oronte  
+- **LinkedIn:** https://www.linkedin.com/in/oronte-soler-08b959390/  
+- **Email:** orontesoler06@gmail.com
