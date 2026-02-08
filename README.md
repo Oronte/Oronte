@@ -88,7 +88,11 @@ C#, Unity, VR, Perforce
 
 ---
 
-<div align="center"> ## Contact </div>
+<div align="center"> 
+## Contact 
+</div>
 
 <div align="center"> orontesoler06@gmail.com </div>
-<div align="center"> [LinkedIn](https://www.linkedin.com/in/oronte-soler-08b959390/)  </div>
+<div align="center"> 
+  [LinkedIn](https://www.linkedin.com/in/oronte-soler-08b959390/)
+</div>
