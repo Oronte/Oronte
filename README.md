@@ -25,7 +25,7 @@ Looking to contribute to **clean, maintainable codebases** and **concrete techni
 | **Languages** | C++, C# |
 | **Engines** | Unreal Engine, Unity |
 | **Frameworks** | SFML |
-| **Version Control** | Git, GitHub, Perforce (P4V) |
+| **Version Control** | GitHub, Perforce (P4V) |
 | **Domains** | Engine Programming, Gameplay Systems, Tools, VR |
 
 </div>
@@ -92,8 +92,7 @@ C#, Unity, VR, Perforce
 
 ## Contact
 
-[GitHub](https://github.com/Oronte)  
-[LinkedIn](https://www.linkedin.com/in/oronte-soler-08b959390/)  
 orontesoler06@gmail.com
+[LinkedIn](https://www.linkedin.com/in/oronte-soler-08b959390/)  
 
 </div>
