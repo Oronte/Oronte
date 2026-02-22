@@ -43,30 +43,13 @@ Looking to contribute to **clean, maintainable codebases** and **concrete techni
 Custom-built 2D game engine developed from scratch to explore engine architecture and real-time systems.
 
 **Key Contributions**
-- Scene and entity management
-- Rendering pipeline and input system
+- Entity management
+- Rendering pipeline 
+- Input system
 - Physics simulation
 
 **Technologies**  
 C++, SFML
-
----
-
-### 3D Game Project — Unreal Engine  
-**Team project — 6 programmers, ~15 artists**
-
-<a href="https://github.com/Oronte/Bamphy">Bamphy</a>
-
-**Description**  
-3D puzzle game developed in a production-style environment with multidisciplinary collaboration.
-
-**Key Contributions**
-- Gameplay mechanics and interaction systems
-- Key remapping and game translation system
-- Perforce-based team workflow integration
-
-**Technologies**  
-C++, Unreal Engine, Perforce
 
 ---
 
@@ -85,6 +68,24 @@ VR training application designed for employee onboarding and professional skill 
 
 **Technologies**  
 C#, Unity, VR, Perforce
+
+---
+
+### 3D Game Project — Unreal Engine  
+**Team project — 6 programmers, ~15 artists**
+
+<a href="https://github.com/Oronte/Bamphy">Bamphy</a>
+
+**Description**  
+3D puzzle game developed in a production-style environment with multidisciplinary collaboration.
+
+**Key Contributions**
+- Gameplay mechanics and interaction systems
+- Key remapping and game translation system
+- Perforce-based team workflow integration
+
+**Technologies**  
+C++, Unreal Engine, Perforce
 
 ---
 
