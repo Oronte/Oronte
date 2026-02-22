@@ -22,7 +22,7 @@ Looking to contribute to **clean, maintainable codebases** and **concrete techni
 
 | Category | Technologies |
 |--------|--------------|
-| **Languages** | C++, C# |
+| **Languages** | C++, C#, Python |
 | **Engines** | Unreal Engine, Unity |
 | **Frameworks** | SFML |
 | **Version Control** | GitHub, Perforce (P4V) |
