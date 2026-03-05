@@ -56,8 +56,6 @@ C++, SFML
 ### VR Serious Game — La Poste  
 **Professional project**
 
-<a href="https://github.com/Oronte/LaPoste-SeriousGame">La Poste</a>
-
 **Description**  
 VR training application designed for employee onboarding and professional skill development.
 
@@ -73,8 +71,6 @@ C#, Unity, VR, Perforce
 
 ### 3D Game Project — Unreal Engine  
 **Team project — 6 programmers, ~15 artists**
-
-<a href="https://github.com/Oronte/Bamphy">Bamphy</a>
 
 **Description**  
 3D puzzle game developed in a production-style environment with multidisciplinary collaboration.
